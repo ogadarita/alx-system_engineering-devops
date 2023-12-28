@@ -2,7 +2,7 @@ Shell variables and expansions
 
 ## Converting a Number from Base 10 to Base 16
 There are several ways of converting a number from base 10 to base 16. 
-Below are three ways of performing the base conversion:
+Below are two ways of performing the base conversion:
 
 ### 1. Using the printf command
 Below is the syntax you can use to perform the base conversion:
